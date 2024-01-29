@@ -1,5 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'hello-friend-ng'
-paginate = 10
+theme = 'ananke'
