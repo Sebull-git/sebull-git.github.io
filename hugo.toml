@@ -1,4 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'de-DE'
 title = 'World Wide Seb'
-theme = 'ananke'
+theme = 'henry'
+[params]
+  ExternalLinkIndicator = "»"
